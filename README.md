@@ -51,5 +51,5 @@ Can you get the maximum score?
 - Commit your changes (git commit -m 'changed a, b and c')
 - Make commit message exact and precise
 - Push to the branch (git push origin new-feature)
-- If there a merge commit resolve it
+- If there a merge conflict resolve it
 - Create a Pull Request
